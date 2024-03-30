@@ -20,8 +20,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PhenixSdk",
-            url: "https://dl.phenixrts.com/sdk/ios/2023.8.0-bcf7d1c-20240325T221515765/PhenixSdk.xcframework.zip",
-            checksum: "5f2aa038bd386bd9eb4db615705ad3613ed5a82ada4e5d41204ceb84919d0643"
+            url: "https://dl.phenixrts.com/sdk/ios/2023.8.0-f3fd3c6-20240330T003249516/PhenixSdk.xcframework.zip",
+            checksum: "f737a801ea71d5173d30c7144a5e86c82b09dac5b405f9ffea9224b6dea1cc63"
         ),
     ]
 )
