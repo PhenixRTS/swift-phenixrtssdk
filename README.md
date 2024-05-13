@@ -24,7 +24,7 @@ The SDK version can be found as a tag of this repository.
 [PhenixSdk](https://github.com/PhenixRTS/CocoaPodsSpecs)
 
 ## Notes:
-* **Minimum Deployment Target is iOS 9.0**. Phenix SDK runs on iPhone4S, iPod Touch 5th Gen and newer devices.
+* **Minimum Deployment Target is iOS 12.0 and tvOS 12.0**.
 
 ## Documentation:
 
