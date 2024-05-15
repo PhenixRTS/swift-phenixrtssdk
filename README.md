@@ -15,7 +15,10 @@ Example:
   <img alt="SPM Integration example" src="docs/spm_example.png" width="80%">
 </p>
 
-The SDK version can be found as a tag of this repository.
+The SDK version can be found as a tag of this repository. After that you will be shown a dialogue (example below), in
+which you can select which module you want. Most functionality is in the PhenixSdk module. Only select PhenixSdkNielsen
+if you need integration with the Nielsen App SDK. Note that if you select PhenixSdkNielsen then you should also select
+PhenixSdk.
 
 ## Alternative integration:
 
