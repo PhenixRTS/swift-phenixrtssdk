@@ -1,6 +1,4 @@
 // swift-tools-version:5.4
-// The swift-tools-version declares the minimum version of Swift required to build this package.
-
 import PackageDescription
 
 let package = Package(
@@ -24,13 +22,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PhenixSdk",
-            url: "https://dl.phenixrts.com/sdk/apple/2024.4.0-7441191-20240906T213259024/PhenixSdk.xcframework.zip",
-            checksum: "853368a5519809bcdeff7f1668703353f97cb2569aec11b27266e31d0e95da34"
+            url: "https://dl.phenixrts.com/sdk/apple/2024.4.1-1d1b04e-20241204T101249156/PhenixSdk.xcframework.zip",
+            checksum: "9cb3c819b365a2ce19a6658f58b90dabae8d3ebdf883bd89a0f0819f71d2b705"
         ),
         .binaryTarget(
             name: "PhenixSdkNielsen",
-            url: "https://dl.phenixrts.com/sdk/apple/2024.4.0-7441191-20240906T213259024/PhenixSdkNielsen.xcframework.zip",
-            checksum: "5b9cea6431432e7efc11725c9a872bbaba51a09e2369f27d0e949e90ef2e7ef0"
+            url: "https://dl.phenixrts.com/sdk/apple/2024.4.1-1d1b04e-20241204T101249156/PhenixSdkNielsen.xcframework.zip",
+            checksum: "4e817a54779029608ba797db0176584a745899f89327ba85aac073f259826ead"
         ),
     ]
 )
