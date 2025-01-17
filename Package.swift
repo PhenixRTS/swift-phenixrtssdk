@@ -22,13 +22,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PhenixSdk",
-            url: "https://dl.phenixrts.com/sdk/apple/2024.4.1-1d1b04e-20241204T101249156/PhenixSdk.xcframework.zip",
-            checksum: "9cb3c819b365a2ce19a6658f58b90dabae8d3ebdf883bd89a0f0819f71d2b705"
+            url: "https://dl.phenixrts.com/sdk/apple/2025.0.0-5db9bb8-20250117T110544222/PhenixSdk.xcframework.zip",
+            checksum: "4380ea60d42f6ea72b3b044b483eeeba782a49f9500a64fa6269a6eee04abd32"
         ),
         .binaryTarget(
             name: "PhenixSdkNielsen",
-            url: "https://dl.phenixrts.com/sdk/apple/2024.4.1-1d1b04e-20241204T101249156/PhenixSdkNielsen.xcframework.zip",
-            checksum: "4e817a54779029608ba797db0176584a745899f89327ba85aac073f259826ead"
+            url: "https://dl.phenixrts.com/sdk/apple/2025.0.0-5db9bb8-20250117T110544222/PhenixSdkNielsen.xcframework.zip",
+            checksum: "073aedba17ee968738f7587f95475532b7669a119b8ae4bce31861a26e052a58"
         ),
     ]
 )
